@@ -1,0 +1,1 @@
+# copilot-dotnet-template
